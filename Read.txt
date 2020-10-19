@@ -1,0 +1,8 @@
+These files working in Matlab V2019b. 
+
+please follow the next steps:
+
+1. Load all .mat files in the workspace
+2. Run the scripts iden_zona1.m, iden_zona2.m and iden_zona3.m
+3. Open the file IEEE_123_LQG_zon123
+4. Run the simulation
