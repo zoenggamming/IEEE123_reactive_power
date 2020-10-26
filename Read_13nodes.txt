@@ -1,0 +1,8 @@
+To run the 13-node network, locate the following files on the same path:
+Sec_Impedance.m
+unbal_13nodes_25oct2020.slx
+lines_parameters.xlsx
+
+Run the file Sec_Impedance.m
+Open the file unbal_13nodes_25oct2020.slx
+Run the simulation
